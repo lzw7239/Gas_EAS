@@ -5,3 +5,11 @@ E:\code\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.Properties.Resour
 E:\code\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.csproj.GenerateResource.Cache
 E:\code\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.exe
 E:\code\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.pdb
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.Main.exe.config
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.Main.exe
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.Main.pdb
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.csprojResolveAssemblyReference.cache
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.Properties.Resources.resources
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.csproj.GenerateResource.Cache
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.exe
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.Main\obj\Debug\Gas_test2.Main.pdb

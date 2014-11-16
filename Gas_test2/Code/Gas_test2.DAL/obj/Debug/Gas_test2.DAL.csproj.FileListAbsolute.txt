@@ -8,3 +8,8 @@ K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.DAL.pdb
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.DAL\obj\Debug\Gas_test2.DAL.csprojResolveAssemblyReference.cache
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.DAL\obj\Debug\Gas_test2.DAL.dll
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.DAL\obj\Debug\Gas_test2.DAL.pdb
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.DAL.dll
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.DAL.pdb
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.DAL\obj\Debug\Gas_test2.DAL.csprojResolveAssemblyReference.cache
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.DAL\obj\Debug\Gas_test2.DAL.dll
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.DAL\obj\Debug\Gas_test2.DAL.pdb

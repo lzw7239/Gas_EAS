@@ -7,3 +7,8 @@ K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.Entities.pdb
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Entities\obj\Debug\Gas_test2.Entities.dll
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Entities\obj\Debug\Gas_test2.Entities.pdb
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Entities\obj\Debug\Gas_test2.Entities.csprojResolveAssemblyReference.cache
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.Entities.dll
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.Entities.pdb
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Entities\obj\Debug\Gas_test2.Entities.csprojResolveAssemblyReference.cache
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Entities\obj\Debug\Gas_test2.Entities.dll
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Entities\obj\Debug\Gas_test2.Entities.pdb

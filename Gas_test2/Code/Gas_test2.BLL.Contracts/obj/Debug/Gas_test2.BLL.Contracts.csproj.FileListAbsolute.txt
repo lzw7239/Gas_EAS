@@ -8,3 +8,8 @@ K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.BLL.Contracts.
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.BLL.Contracts\obj\Debug\Gas_test2.BLL.Contracts.csprojResolveAssemblyReference.cache
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.BLL.Contracts\obj\Debug\Gas_test2.BLL.Contracts.dll
 K:\Users\SJP\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.BLL.Contracts\obj\Debug\Gas_test2.BLL.Contracts.pdb
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.BLL.Contracts.dll
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Publish\Gas_test2.BLL.Contracts.pdb
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.BLL.Contracts\obj\Debug\Gas_test2.BLL.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.BLL.Contracts\obj\Debug\Gas_test2.BLL.Contracts.dll
+C:\Users\zaiwei\Documents\GitHub\Gas_EAS\Gas_test2\Code\Gas_test2.BLL.Contracts\obj\Debug\Gas_test2.BLL.Contracts.pdb

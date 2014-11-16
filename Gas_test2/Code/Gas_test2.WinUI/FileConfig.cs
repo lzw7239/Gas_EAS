@@ -109,6 +109,11 @@ namespace Gas_test2.WinUI
             ////update表数据
         }
 
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
 
 
 
